@@ -7,7 +7,7 @@ Diese Einweisung ist für die im TUD FabLab vorhandenen 3D-Drucker:
 + Makerbot Replicator 2X
 + 3Dator
 
-Personen ohne Einweisung ist es untersagt die im FabLab vorhandenen Drucker selbstständig zu benutzen, um Beschädigungen zu vermeiden.
+**Personen ohne Einweisung ist es untersagt die im FabLab vorhandenen Drucker selbstständig zu benutzen, um Beschädigungen zu vermeiden.**
 
 Einweisungen für die 3D-Drucker sind von den Betreuern zu erhalten. Inhalt der Einweisung ist die Erklärung des 3D-Drucker Workflows und der Sachgerechten Bedienung der 3D-Drucker. Hat der Benutzer die Inhalte verstanden kann die Einweisung unterschrieben werden.
 
