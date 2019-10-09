@@ -15,12 +15,12 @@ Einweisungen für die 3D-Drucker sind von den Betreuern zu erhalten. Inhalt der 
 1.1 3D-Druck fällt unter den Begriff Rapid Prototyping” jedoch kann ein Druck je nach Größe und Einstellungen in der Druckersoftware (Slic3r) mehrere Stunden dauern. Die Betreuer helfen die Dauer abzuschätzen.  
 1.2 Der Benutzer soll sich innerhalb des FabLabs aufhalten bis der Druck der ersten Schicht abgeschlossen ist, um zwischenzeitlich den Druck zu kontrollieren. Erfahrungsgemäß ist die Wahrscheinlichkeit eines Fehlers während des Drucks an dieser Stelle am häufigsten  
 1.3 Anleitung sind exakt zu beachten. Falls Unsicherheiten auftreten kann jederzeit ein Betreuer gefragt werden.  
-+ Verbrennungsgefahr an heißen Teilen:  
-++ Extruder wird sehr heiß (Druckerdüse) ! Nicht direkt berühren.  
-++ Bodenglasplatte des Ultimakers 2 und die Federstahlplatten werden sehr heiß. Erst abkühlen lassen und vorsichtig testen.
-+ Drucker ausschalten:
-++ Falls der Drucker nicht richtig funktioniert ( Geräuschpegel, falsche Bewegungen)
-++ Falls der Drucker nicht mehr benötigt wird:
-+++ Bei Beschädigungen in jeder Form sind die Betreuer zu informieren.
-+++ Keinen Schaber, Messer oder Ähnliches verwenden, um Objekte von der Plattform zu lösen, denn dies beschädigt die Folie.
-+ Nach erfolgreichem Drucken Wiegen und entsprechend Bezahlen!
+1.4 Verbrennungsgefahr an heißen Teilen:  
+1.4.1 Extruder wird sehr heiß (Druckerdüse) ! Nicht direkt berühren.  
+1.4.2 Bodenglasplatte des Ultimakers 2 und die Federstahlplatten werden sehr heiß. Erst abkühlen lassen und vorsichtig testen.  
+1.5 Drucker ausschalten:  
+1.5.1 Falls der Drucker nicht richtig funktioniert ( Geräuschpegel, falsche Bewegungen)  
+1.5.2 Falls der Drucker nicht mehr benötigt wird:  
+1.6 Bei Beschädigungen in jeder Form sind die Betreuer sofortig zu informieren.  
+1.7 Keinen Schaber, Messer oder Ähnliches verwenden, um Objekte von der Plattform zu lösen, denn dies beschädigt die Folie.  
+1.8 Nach erfolgreichem Drucken Wiegen und entsprechend Bezahlen!  
