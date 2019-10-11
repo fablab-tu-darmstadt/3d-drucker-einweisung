@@ -33,21 +33,42 @@ Diese Einweisung ist für die im TUD FabLab vorhandenen 3D-Drucker:
 ## 2. 3D-Modell
 Das zu druckende Modell kann mittels CAD-Software erstellt oder Online auf Websiten ( Thingiverse, YouMagine, MyMiniFactory oder GrabCAD ) herruntergeladen werden.  
 
-### 2.1 CAD
-Mit CAD (computer-aided-design) wird die Idee in ein 3D-Modell eingegossen. Dazu gibt es eine Fülle von Programmen. Im Open Source Bereich möchte ich 2 Programme hervorheben, die auch auf Linux und Windows.
-+ FreeCAD  
-+ OpenSCAD  
+### 2.1 CAD-Sodtware
+Mit CAD (computer-aided-design) wird die Idee in ein 3D-Modell eingegossen. Dazu gibt es eine Fülle von Programmen. Im Open Source Bereich sind 2 Programme hervorzuheben, die unter Linux und Windows funktionieren:
++ FreeCAD (Angelehnt an professionelle CAD-Software, aber relativ einfach zu bedienen)
++ OpenSCAD (Skriptsprache für Konstruktion aus geometrischen Grundkörpern)  
 
-Darüber hinaus gibt es kostenpflichtige Software (proprietär), die kostenlos für Studenten ist:
+Darüber hinaus gibt es kostenpflichtige (proprietär) Software, die kostenlos für Studenten ist:
 + Autodesk Fusion360
 + PTC Creo
 + Solid Edge, Siemens NX
 
-### 2.2 Dateiformat
-Das verwendete Programm zum erstellen des Maschienencodes ist der PrusaSlic3r. Aus diesem Grund müssen aus den verschiedenen Programmen die Modelle wahlweise in die Dateiformate STL, AMF oder OBJ exportiert werden.
+### 2.2 Kontruktionsregeln
+Generell gilt bei der Konstrution von Werkstücken, die Regeln des gewählten Fertigungsprozesses mit einfließen zu lassen. Im 3D-Druck FDM sind folgende Regelen zu beachten:
++ Größe des Modells 
+    + Abhängig von der Größe des Arbeitsraumes eines Druckers:
+        + Prusa         250 x 210 x 210 mm
+        + Ultimaker     223 x 223 x 205 mm
+        + Makerbot      285 x 153 x 155 mm
+        + 3Dator        180 x 170 x 270 mm
++ Brigheing über 80mm ist nicht erlaubt
++ Überhänge mit einem Winkel über 65° sind nicht erlaubt
++ Das Aspektverhältnis (Höhe / laterale Ausdehnung) des Drucks darf den Wert 10 nicht überschreiten
++ Drucken ohne Stützstrucktur
+    + TODO
++ Drucken mit Stützstrucktur
+    + TODO
+    
+### 2.3 Dateiformat
+Ist die Konstruktion des gewünschten Modells abgeschlossen, wird das CAD-Modelle wahlweise in die Dateiformate STL, AMF oder OBJ exportiert.
 
 ## 3. 3D-Modell slicen
-
+Im FabLab Darmstadt wird der PrusaSlic3r genutzt. An dieser Stelle sei erwähnt das es 
+Software zum slicen der Modelle:
++ PrusaSlic3r (OpenSource)
++ Cura (Opensource)
++ Slic3r (Opensouce)
++ Simplyfy3d
 ## 4. 3D-Modell ausdrucken
 
 ## 5. Bezahlen
